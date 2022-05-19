@@ -1,0 +1,4 @@
+We have to check these things in phase 1 (data science):
+missing values
+duplicates
+categories
